@@ -1,0 +1,40 @@
+ 
+ .header{
+     background-image: url(./philip-myrtorp-x1pOi51QhVE-unsplash.jpg);
+     height: 90vh;
+     background-position: center;
+     background-repeat:no-repeat ;
+     background-size: cover;
+     position: relative;
+ }
+  .nav{
+      height: 10vh;
+  }
+ .section{
+     position: absolute;
+     left: 530px;
+     top: 190px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ button a{
+     text-decoration: none;
+     color: #fff;
+ }
+ button a:hover{
+    text-decoration: none;
+    color: #fff;
+}
+ 
+ .nav ul {
+     position: absolute;
+     top: 8px;
+     left: 300px;
+ }
+ .footer{
+     background-color: rgb(163, 14, 163);
+ }
+ .card{
+color: rgb(163, 14, 163);
+background-color: rgb(238, 228, 228);
+
+ }
